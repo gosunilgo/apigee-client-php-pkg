@@ -10,10 +10,10 @@
         "client",
         "web service"
     ],
-    "homepage": "http://github.com/apigee/apigee-client-php",
+    "homepage": "http://github.com/gosunil/apigee-client-php-pkg",
     "license": "Apache-2.0",
     "require": {
-        "php": "^7.4 || ^8.0 || ^8.1",
+        "php": "^8.0 || ^8.1",
         "ext-json": "*",
         "ext-openssl": "*",
         "ext-reflection": "*",
